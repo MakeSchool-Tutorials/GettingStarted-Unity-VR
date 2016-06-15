@@ -1,3 +1,8 @@
+---
+title: Begining
+slug: begining
+---
+
 **Exercise One - Your first scene**
 
 In this first hands on lab, we will be creating a simple bowling scene.
