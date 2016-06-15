@@ -1,6 +1,6 @@
 ---
-title: Begining
-slug: begining
+title: Begininga
+slug: begininga
 ---
 
 **Unity Editor**
