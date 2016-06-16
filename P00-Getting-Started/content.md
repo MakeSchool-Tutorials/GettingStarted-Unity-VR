@@ -1,6 +1,6 @@
 ---
-title: Begininga
-slug: begininga
+title: How to use Unity
+slug: unity-start-here
 ---
 
 **Unity Editor**
