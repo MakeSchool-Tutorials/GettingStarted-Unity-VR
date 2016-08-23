@@ -191,7 +191,7 @@ Every GameObject has a Transform
 
 A Transform describes the GameObjects position, scale, and rotation.
 
-![](./media/image24.png)
+![The Transform of a GameObject](./media/image24.png)
 
 Your world contains a tree of objects, this is called the **Scene Graph**
 
@@ -206,7 +206,7 @@ You can also disable/enable a parent to disable/enable entire groups of
 children. This is a useful way to show/hide UI windows, show/hide level
 elements, or enable/disable game systems.
 
-![](./media/image23.png)
+![You can Disable/Enable GameObjects](./media/image23.png)
 
 These are the basic GameObjects available in Unity:
 

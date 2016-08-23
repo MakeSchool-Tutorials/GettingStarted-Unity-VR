@@ -23,6 +23,8 @@ Here are the goals and purposes of this exercise:
 
 1. Learn how to use the Rotate, Scale, and Translate tools to move your objects around the world.
 
+Let's begin.
+
 1. Import your assets, and locate them in the Project Window. Once located drag BowlingPin and BowlingBall onto the main viewport to put them into your scene. You can type in the filter box at the top of the project window if you want to search. ![Drag Assets To Project](./media/image11.png)
 
 1. You should notice that you now have some new objects in your Hierarchy view. You should be able to click them in this view to select them in the scene viewport, and double click one of them to jump to the object in the world. ![Select Bowling Pin](./media/image29.png)
