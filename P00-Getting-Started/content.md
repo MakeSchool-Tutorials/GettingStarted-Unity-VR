@@ -95,7 +95,7 @@ The main view Camera is called the Main Camera.
 
 ## GameObjects
 
-- A Game Object is anything in the Unity World that you can manipulate in 3d space. There are primitives and advanced Game Objects. You can also make blank empty game objects to parent other objects and help organize your scene.
+- A Game Object is anything in the Unity World that you can manipulate in 3D space. There are primitives and advanced Game Objects. You can also make blank empty game objects to parent other objects and help organize your scene.
 
 ### Manipulating GameObjects
 
@@ -104,7 +104,7 @@ Transforms and QWER to access different tools to manipulate objects
 - **`Q` is the Pan Tool**, allows you to drag the viewport around
 - **`W` is the translate tool**, allows you to move objects around in the world
 - **`E` is the scale tool**, allows you to change objects scale and size
-- **`R` is the rotation tool**, allows you to rotate objects in 3d space
+- **`R` is the rotation tool**, allows you to rotate objects in 3D space
 
 ## Lights
 
@@ -183,4 +183,4 @@ Primitives are the basic GameObjects avaliable in Unity.
 
 ## Meshes
 
-Mesh files can be imported from external 3d programs. You can use Blender, Maya, 3dStudio Max, or generic OBJ exporters. Unity supports standard file formats.
+Mesh files can be imported from external 3D programs. You can use Blender, Maya, 3DStudio Max, or generic OBJ exporters. Unity supports standard file formats.
