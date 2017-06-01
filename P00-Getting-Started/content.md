@@ -109,21 +109,15 @@ Transforms and QWER to access different tools to manipulate objects
 ## Lights
 
 - Every game must have at least one light, or you won't be able to see anything.
-
 - You can have as many lights as you want, but they have a cost.
-
 - There are four kinds of lights: `directional`, `point`, `spot`, and `area`.
     - `Directional lights` are global lights, they affect all objects.
     - `Point light` is a sphere of light at a specific location.
     - `Spot light` is a spotlight that points at a specific location.
     - `Area light` is defined by a rectangle in space.
-
 - Real-time lighting is default, but it's computationally expensive. You can also use light maps to bake lighting into the scene for performance gains at the expense of memory. Baked light maps are static, and their objects cannot move.
-
 - `Shadows` are also something that is expensive, there are different modes for shadows and shadow maps as well.
-
 - You can import custom meshes into Unity. You can make these with external 3D asset programs or get them from the asset store.
-
 - You can also animate meshes in interesting ways. You can import animations from other programs or use Unity’s key-frame editor to create your own animations
 
 ## Attaching Scripts
